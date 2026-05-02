@@ -1,4 +1,4 @@
-Trade Diary — Backtest Manager
+Trade Diary Backtest Manager
 
 A fully offline Windows desktop application for logging, analysing, and managing trading backtest data. Built with Python and PyQt6.
 

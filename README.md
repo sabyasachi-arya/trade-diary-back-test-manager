@@ -1,0 +1,1 @@
+# trade-diary-back-test-manager
